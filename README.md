@@ -1,2 +1,0 @@
-# begindotcom-demo
-Begin app
